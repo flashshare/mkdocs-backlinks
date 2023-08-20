@@ -14,7 +14,7 @@ setup(
     author='Danilo Guimarães',
     author_email='danilo@danodic.dev',
     license='MIT',
-    python_requires='>=3.10',
+    python_requires='>=3.9',
     install_requires=[
         'mkdocs>=1.4.2',
         'beautifulsoup4>=4.11.1'
